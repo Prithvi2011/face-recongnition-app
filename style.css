@@ -1,0 +1,23 @@
+body{
+    color: aquamarine;
+    background-color: coral;
+}
+
+.heading{
+    width: 80%;
+    font-size: 22px;
+}
+
+.name_of_people{
+    color: white;
+}
+
+#camera{
+    border: 2px dashed blue;
+    width: 350px;
+    height: 300px;
+}
+
+#result_object_name,#result_object_accuracy{
+    color: yellow;
+}
